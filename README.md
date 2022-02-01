@@ -19,7 +19,7 @@ Junior PHP Backend Programmer from Indonesia!
 </p>
  
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimbims125&layout=compact)](https://github.com/bimbims125/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azkazikna&layout=compact)](https://github.com/Azkazikna/github-readme-stats)
   <br>
   <img src="https://github-readme-stats.vercel.app/api/?username=Azkazikna&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 

@@ -14,8 +14,8 @@ Junior PHP Backend Programmer from Indonesia!
 
 ### Let's connect with me!
 <p>
-    <a href="https://www.facebook.com/pramsopel/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Pram-blue" /></a>
-    <a href="https://www.instagram.com/pram.dpb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@pram.dpb_-blue" /></a>
+    <a href="https://www.facebook.com/azka.zikna.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-Azkazikna-blue" /></a>
+    <a href="https://www.instagram.com/azkazikna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@Azkazikna_-blue" /></a>
 </p>
  
 

@@ -21,7 +21,7 @@ Junior PHP Backend Programmer from Indonesia!
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimbims125&layout=compact)](https://github.com/bimbims125/github-readme-stats)
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=bimbims125&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Azkazikna&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
 <!--
 **Pramdhanni* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,10 @@
-### Hi there 👋 , I'm Azkazikna Ageung Laksana!
+### Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> , I'm Azkazikna Ageung Laksana!
 Junior Fullstack Developer from Indonesia!
 
-- 🎒 I’m currently student at [SMK Plus Pelita Nusantara][websitesekolah].
+- 🎒 I’m currently student at [SMK Plus Pelita Nusantara][http://smkpluspnb.sch.id/].
 - 📖 I'm Currently Learning [PHP][lua].
 - 👨‍💻 This is new Github account so i will post about my project soon!
-- 
+
 ### ⌨️ Languages and Tools:
 
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 

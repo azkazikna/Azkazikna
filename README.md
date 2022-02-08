@@ -1,22 +1,25 @@
 ### Hi there 👋 , I'm Azkazikna Ageung Laksana!
-Junior PHP Backend Programmer from Indonesia!
+Junior Fullstack Developer from Indonesia!
 
-### Languages and Tools:
+- 🎒 I’m currently student at [SMK Plus Pelita Nusantara][websitesekolah].
+- 📖 I'm Currently Learning [PHP][lua].
+- 👨‍💻 This is new Github account so i will post about my project soon!
+- 
+### ⌨️ Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Pythonesia" width="26px" src="https://ik.imagekit.io/9rpt33mvmla/logo/Logo%20Bright-01.png" />
-<img align="left" alt="Django" width="26px" src="https://logodix.com/logo/1758841.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img height="32px" align="left" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
+<img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 
 <br>
 
-### Let's connect with me!
-<p>
-    <a href="https://www.facebook.com/azka.zikna.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-Azkazikna-blue" /></a>
-    <a href="https://www.instagram.com/azkazikna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@Azkazikna_-blue" /></a>
-</p>
+### 📞 Let's connect with me!
+[<img align="left" alt="Azkazikna | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="left" alt="Azkazikna | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
  
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azkazikna&layout=compact)](https://github.com/Azkazikna/github-readme-stats)

@@ -49,3 +49,5 @@ I've founded a few companies in the past :zap: I love playing video games which 
 ## GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=azkazikna&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Azkazikna" width="600"><img src="https://github-readme-streak-stats.herokuapp.com?user=azkazikna&theme=jolly" width="600"></p>
+
+[tech_tools_anchor]: #bonjour--

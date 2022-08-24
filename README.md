@@ -29,9 +29,8 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 
 As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=azkazikna&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Azkazikna" width="100%
+<img src="https://github-readme-stats.vercel.app/api?username=azkazikna&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact"  alt="GitHub Stats for Azkazikna" width="100%
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=azkazikna&theme=jolly" width="100%">
 
---!>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=azkazikna&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=azkazikna&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)

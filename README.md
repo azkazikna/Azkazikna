@@ -2,7 +2,7 @@
 <!--
 **azkazikna/azkazikna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
-<img src="https://user-images.githubusercontent.com/70270081/186329719-6408638a-01af-4735-8043-7f966f3a77cf.jpeg" width="400" align="right"> 
+<img align="right" width="300" height="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"></a>
 
 ### About Me
 
@@ -36,7 +36,7 @@ Now I'm exploring the javascript library, namely React JS, and the PHP framework
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_now_anchor]
 &nbsp;
 
-<img align="right" width="150" height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"></a>
+
 ### Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel, I also do live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
 

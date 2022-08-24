@@ -31,7 +31,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="50%" align="right">
 
 --!>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->

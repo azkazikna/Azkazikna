@@ -4,7 +4,7 @@
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+![](https://user-images.githubusercontent.com/70270081/186329719-6408638a-01af-4735-8043-7f966f3a77cf.jpeg)
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or find me on a live stream!
 
@@ -44,11 +44,8 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <!--
 - [Twitter](http://twitter.com/MishManners) :bird:
 - [Instagram](http://instagram.com/mishmanners) 📸
-- [Twitch](http://twitch.tv/MishManners) 📺 
 - [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
-- [YouTube](http://youtube.com/c/MishManners) 📽 
 - [MishManners®™ website](http://mishmanners.com) 🌐 
-- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
 -->
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>

@@ -22,7 +22,7 @@ Now I'm exploring the javascript library, namely React JS, and the PHP framework
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="GIT" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -31,9 +31,9 @@ Now I'm exploring the javascript library, namely React JS, and the PHP framework
 
 ### 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_now_anchor]
 &nbsp;
 
 <img align="right" width="150" height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"></a>

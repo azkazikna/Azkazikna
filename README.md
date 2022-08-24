@@ -2,7 +2,7 @@
 <!--
 **azkazikna/azkazikna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
-<img src="https://user-images.githubusercontent.com/70270081/186329719-6408638a-01af-4735-8043-7f966f3a77cf.jpeg" width="50%" align="right"> 
+<img src="https://user-images.githubusercontent.com/70270081/186329719-6408638a-01af-4735-8043-7f966f3a77cf.jpeg" width="600" align="right"> 
 
 ### About Me
 

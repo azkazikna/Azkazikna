@@ -6,7 +6,9 @@
 
 ### About Me
 
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or find me on a live stream!
+I am a graduate of Vocational Highschool majoring in Software Engineering and have an interest in web development and UI/UX design. Studying web development for 3 years has given me a lot of flying hours in terms of coding but it doesn't make me feel satisfied.
+
+Now I'm exploring the javascript library, namely React JS, and the PHP framework, namely Laravel. As a Programmer/Developer I will continue to hone and improve my skills in any case whether it's problem-solving, etc.
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
